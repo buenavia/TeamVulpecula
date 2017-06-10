@@ -1,6 +1,6 @@
 # TeamVulpecula
 
-This is final submission by Team Vulpecula
+## This is final submission by Team Vulpecula
 
 Team Members:
 
